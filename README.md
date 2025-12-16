@@ -17,7 +17,7 @@ A simple calculator application built in Java Swing, inspired by Apple's calcula
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/parfenon/swing-calculator.git
+   git clone https://github.com/parfenix/swing-calculator.git
    ```
 2. Compile the project (adjust paths as needed):
    ```bash
